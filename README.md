@@ -10,6 +10,6 @@ You can also start the app by typing:
 
 <pre>npm start</pre>
 
-Once you finish the development you should be doing:
+Once you finish the development of your app, you should be doing:
 
 <pre>npm build</pre>
